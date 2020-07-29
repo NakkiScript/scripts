@@ -1,4 +1,4 @@
-# DOminios de NakkiScript 
+# Dominios de NakkiScript 
 
 ### NakkiScript te deleita con:
 Los scripts del canal de NakkiScript
