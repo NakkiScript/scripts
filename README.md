@@ -4,5 +4,6 @@ Los scripts del canal de NakkiScript
 
 # Por ahora
 
-- Instagram
+- Instagram:
+
 -- Filtrar usuarios que siguen o son seguidos por un perfil
